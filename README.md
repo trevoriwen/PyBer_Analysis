@@ -8,7 +8,7 @@ The PyBer CEO tasked us with creating a multiple-line graph showing total weekly
 
 ## Summary of PyBer Analysis
 (There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.)
-1. 
-2.  
-3.
+1. Look into mileage of each ride. Urban likely shorter trips. 
+2. PyBer should look into how they can increase Urban rides or see if they are able to shift urban drivers to suburban or rural areas for a slightly higher pay which could be subsidized by the higher average fare
+3. Investments would be best made to increase Rural and Urban rides. Urban because the demand for rides is significantly lower than the supply of drivers and Rural offers the highest fares but lacks a demand for rides.
 
