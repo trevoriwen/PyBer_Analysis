@@ -6,7 +6,7 @@ The PyBer CEO tasked us with creating a multiple-line graph showing total weekly
 ## Results of PyBer Analysis
 Looking at the results of the PyBer analysis we can see that Urban rides provide most of the business's total ride demand and fare revenue. We can also see that Urban cities also have a significantly high excess of drivers for the overall ride demand. This deflates the average fare per driver for Urban cities vs. Rural and Suburban city types. Looking at the average fare, we can see that Rural and Suburban rides are more expensive per ride, this could be limiting the demand for rides with both Rural and Suburban total rides and total fares contributing significantly less despite the higher overall fare. In order to keep the PyBer ride share business strong we would like to see the demand for rides higher than the supply of drivers which is not the case for Urban cities but is the case for Rural and Suburban city types.
 
-![Summary Statistics](analysis/Summary DataFrame.PNG)
+![Summary Statistics](https://github.com/trevoriwen/PyBer_Analysis/blob/b06ca337f0fd7751706c7c7ac2376c6e7a5cfd8c/analysis/Summary%20DataFrame.PNG)
 
 Looking at the multiple-line graph we can see that overall each city type doesn't change a lot week to week. There are peak weeks throughout the first third of the year but each week is within $1,000 in total fare which tells us that business is pretty consistent. The largest week overall (end of February) was within the top top 2 highest performances for all city types.
 
